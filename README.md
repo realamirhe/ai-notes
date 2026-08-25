@@ -6,4 +6,5 @@ Each note records what appears useful, what can go wrong, and the evidence behin
 
 ## Notes
 
-- [Demystifying Agent Skills: Why They Work—Until They Don’t](arxive/2608.14036.md)
+- [Demystifying Agent Skills: Why They Work—Until They Don’t](arxiv/2608.14036.md)
+- [The Scaffolding Matters More Than the Interface](arxiv/2608.08654.md)
